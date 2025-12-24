@@ -1,2 +1,2 @@
 ## Hi, I'm Spleefies!
-<sup>(No, that's not my real name)</sup>
+<img src="https://readme-stats-fast.vercel.app/api/top-langs?username=lt25106&locale=en&hide_title=false&langs_count=14&order=2&theme=dark&layout=compact" style="width: 100vw">
