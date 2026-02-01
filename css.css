@@ -1,0 +1,28 @@
+@font-face {
+    font-family: LTA-Identity;
+    src: url(LTAIdentity-Medium.woff2);
+}
+h1{
+    text-align: center;
+    letter-spacing: 0.1ch;
+    font-family: LTA-Identity;
+}
+header > img{
+    margin: 1em auto;
+    display: block;
+    clip-path: circle();
+}
+body > footer > h6{
+    text-align: center;
+}
+.flex{
+    display: flex;
+}
+.flex img{
+width: 50vw;
+}
+section{
+    padding: 1em;
+    border-style: solid;
+    border-radius: 1em;
+}
