@@ -26,3 +26,6 @@ section{
     border-style: solid;
     border-radius: 1em;
 }
+picture img{
+    width: 48px;
+}
