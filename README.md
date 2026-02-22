@@ -1,2 +1,2 @@
-<img src="https://readme-stats-fast.vercel.app/api/top-langs?username=Spleefies&locale=en&hide_title=false&order=2&theme=dark&layout=compact&langs_count=20" style="width:100vw">
+<img src="https://readme-stats-fast.vercel.app/api/top-langs?username=Spleefies&locale=en&hide_title=false&order=2&theme=dark&langs_count=20&layout=compact" style="width:100vw">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Spleefies&theme=github_dark&show_icons=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true"style="width:100vw">
